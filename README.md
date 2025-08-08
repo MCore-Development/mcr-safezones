@@ -1,4 +1,4 @@
-# Safe Zones Script
+<img width="1617" height="999" alt="image" src="https://github.com/user-attachments/assets/9bc1d21f-3467-4726-aa4d-61d8da10b3c2" /># Safe Zones Script
 
 ## Description
 This script creates customizable safe zones (protected areas) in your game environment where PvP is disabled and players receive visual/UI feedback.
@@ -43,3 +43,6 @@ Config.SafeZonesList = {
 
 ## Support
 For issues or feature requests, please open an issue on GitHub.
+
+<img width="1617" height="999" alt="image" src="https://github.com/user-attachments/assets/60079bce-0556-496e-907a-c38224e9ebe9" />
+
